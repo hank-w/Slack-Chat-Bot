@@ -1,0 +1,14 @@
+{
+  "name": "jokr-bot",
+  "version": "1.0.0",
+  "description": "Slack Bot API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hank W",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
